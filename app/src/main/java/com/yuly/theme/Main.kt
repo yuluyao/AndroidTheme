@@ -95,5 +95,6 @@ class ThemeActivity : AppCompatActivity() {
         }
 
         setTheme(theme)
+
     }
 }
